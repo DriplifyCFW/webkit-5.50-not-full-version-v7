@@ -1,5 +1,9 @@
+# Webkit PoC from 5.50 to 5.55 made by Ciss84, 
+# NOTE : Al-Azif Exploit Host now works on 5.53-01 and 5.55 as I've tested it. (24/05/18) or use miniweb here https://github.com/ciss84/Miniweb-5.50-5.53-5.55
+# Double Note : Al-Azif Exploit Host is often detected as a virus for antiviruses. It's a false positive. To use this program, exclude it using your Antivirus parameters or disable it for the time you need.
 
-Changes made :
+# Changes made :
+
 add ping
 
 add loader
@@ -33,3 +37,4 @@ update gadget and malloc code and stackPointer and stkebase and ping
 update server for 5.55
 
 added ps4 MiraFW_Orbis payloads 501/505
+
